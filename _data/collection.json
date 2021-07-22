@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "I Know a Man_Variation1" ] },
+    "summary": { "en": [ "Variation of prototype. Different performances by the author" ] },
+    "items": [
+    ]
+}
